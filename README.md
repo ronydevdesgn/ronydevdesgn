@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Rony (*ronydevdesgn*)! 👋
 
-<!--
-**ronydevdesgn/ronydevdesgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Programador Frontend & Designer UI at [NexusTech](https://nexustech-eng.vercel.app/) <br>
+(Ao) Born in Luanda, Angola and Living in Benfica, Talatona.
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏽‍💻 Currently creating a better way for people to stay connected with each other through new technologies. - [Programando] <br>
+🎨 Currently creating better images, with quality that can be seen on other websites. - [Criando UI melhores](https://www.figma.com/design/ykJTlhq8IwCQAAKqtGLQP6/pricing-page-App-NexusCareHealth?node-id=0-1&t=0NejICZSxVGlihHU-0) <br>
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://nexustech-eng.vercel.app/) <br>
+🐦 [Twitter](https://twitter.com/ronydev_desgn) <br>
+📸 [Instagram](https://www.instagram.com/_ronybdesgn/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/rodiv%C3%A2nio-da-costa-986b13289/) <br>
