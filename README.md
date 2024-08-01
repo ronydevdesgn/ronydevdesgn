@@ -1,6 +1,6 @@
 ### Hey, I'm Rony (*ronydevdesgn*)! 👋
 
-💻Programmer Frontend & Designer UI at [NexusTech](https://nexustech-eng.vercel.app/) <br>
+💻Programmer Frontend & Designer UI at [Nexustech Services](https://www.nexusteknium.com) <br>
 (Ao) Born in Luanda, Angola and Living in Benfica, Talatona.
 
 ### What I'm working on 👨‍💻
