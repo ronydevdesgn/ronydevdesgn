@@ -1,6 +1,7 @@
 ### Hey, I'm Rony (*ronydevdesgn*)! 👋
 
-💻Programmer Frontend & Designer UI at [Nexustech Services](https://www.nexusteknium.com) <br>
+💻Programmer Frontend & Designer UI at [Nexustech Services](https://www.nexusteknium.com) <br/>
+E Network administrator at Multisign - Suportes de Comunicação LDA <br/>
 (Ao) Born in Luanda, Angola and Living in Benfica, Talatona.
 
 ### What I'm working on 👨‍💻
