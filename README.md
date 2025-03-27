@@ -14,4 +14,4 @@ E Network administrator at <b>Multisign - Suportes de Comunicação LDA</b> <br/
 🚀 [Site](https://nexustech-eng.vercel.app/) <br>
 🐦 [Twitter](https://twitter.com/ronydev_desgn) <br>
 📸 [Instagram](https://www.instagram.com/_ronybdesgn/) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/rodiv%C3%A2nio-da-costa-986b13289/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/ronydevdesgn) <br>
